@@ -168,6 +168,4 @@ gym-management-system/
 - **Charts:** Chart.js
 - **Fonts:** Bebas Neue + Outfit (Google Fonts)
 
----
 
-Built with ❤️ for your friend's gym!
